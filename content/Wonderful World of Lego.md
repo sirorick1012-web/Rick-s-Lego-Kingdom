@@ -1,9 +1,8 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
-## The index page
-
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+## Lego Kingdom
+Welcome to the wonderful world of Lego. This is one of the passions of mine that help me relax and escape this world and enter a realm of imagination!
 
 ## Editing pages
 
