@@ -13,6 +13,7 @@ Welcome to the wonderful world of Lego. This is one of the passions of mine that
 **- [[lego-city-5/index|CITY]]**
 **- [[lego-technic-6/index|TECHNIC]]**
 **- [[lego-cmf-7/index|CMF]]**
+
 ### Obsidian (free)
 
 Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
