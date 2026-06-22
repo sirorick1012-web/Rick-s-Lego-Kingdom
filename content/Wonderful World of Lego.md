@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Wonderful World of Lego!
 ---
 ## Lego Kingdom
 Welcome to the wonderful world of Lego. This is one of the passions of mine that help me relax and escape this world and enter a realm of imagination!
