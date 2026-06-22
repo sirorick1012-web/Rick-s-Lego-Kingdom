@@ -4,12 +4,15 @@ title: Template for Knowledge Base Docs Websites
 ## Lego Kingdom
 Welcome to the wonderful world of Lego. This is one of the passions of mine that help me relax and escape this world and enter a realm of imagination!
 
-## Editing pages
+## Main Categories
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
-
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
-
+**- [[lego-speed-champion-2/index|SPEED-CHAMPIONS]]**
+**- [[lego-icon-1/index|ICON]]**
+**- [[lego-ucs-3/index|UCS]]**
+**- [[lego-ideas-4/index|IDEAS]]**
+**- [[lego-city-5/index|CITY]]**
+**- [[lego-technic-6/index|TECHNIC]]**
+**- [[lego-cmf-7/index|CMF]]**
 ### Obsidian (free)
 
 Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.

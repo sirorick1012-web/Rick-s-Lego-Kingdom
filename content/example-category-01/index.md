@@ -1,20 +1,18 @@
 ---
 title: Category 01
 ---
-## The Category 01 category index page
+## lego sets
 
 ### What is this page?
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
+This page is dedicated to overview of the different Lego themes.
 
-On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
+### Sets
 
-### Naming a category page's index
-
-Why is this page's file name `index` (`example-category-01/index.md`) instead of **Category 01**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 01`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[example-category-02/index | Category 02]], which also uses the `index.md` method to specify a category page title and descriptive text.
+  1. ICON- The Lego Icon sets are geared towards the creative building experiences for those that are 18+. These sets include ones like the Stranger Things Creel House, 1966 Classic Batmobile, The Titanic, BumbleBee, Optimus Prime, The Delorean, ect...
+  2. Speed Champions- The Lego Speed Champions sets include iconic cars like Dom's Charger from Fast and the Furious, Ferrari, Batmobiles, delorean, just to name a few. These are smaller sets that adults and kids alike can build.
+  3. Ultimate Collector Series (UCS)- Lego UCS sets are the same concept as the ICON set except these are Star Wars branded sets. Millennium Falcon, Death Star, X-Wing ect..
+  4. IDEAS- The Ideas sets are fan inspired sets that are built and submitted to LEGO. If enough votes are gathered, then it becomes a set
+  5. CITY- The City set is designed for all Lego enthusiast's that want to build their own cities, from a small country setting, to a futuristic space adventure.
+  6. Technic- The Lego Technic sets use gears, levers, and wires to build functional creative sets.
+  7. Collectible Mini Figures (CMF)- The CMF Series focuses on collectible figures in the LEGO world.

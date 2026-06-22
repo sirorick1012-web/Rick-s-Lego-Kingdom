@@ -1,0 +1,3 @@
+---
+title: TECHNIC-6
+---
